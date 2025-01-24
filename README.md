@@ -1,4 +1,4 @@
-# Note Handling web app
+# Note Handling web app using flask
 
 ## Setup & Installation
 
